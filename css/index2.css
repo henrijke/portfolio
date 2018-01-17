@@ -1,0 +1,80 @@
+
+body{
+    padding-top: 70px;
+
+    background-image: url("small10.png");
+
+
+    background-color:#114b5f;
+    font-family: "Source Sans Pro","Myriad Pro", "Times New Roman", "Comic Sans MS", "sans-serif";
+
+
+
+}
+
+h1,h2,h3,h4{
+    color: #05668d;
+}
+.ci{
+    padding-top:25px;
+    padding-bottom: 25px
+
+}
+.grad{
+
+    background: linear-gradient(to bottom, rgba(255,255,255,0), rgba(255,255,255,1));
+    background: -webkit-linear-gradient(to bottom, rgba(255,255,255,0), rgba(255,255,255,1));
+
+}
+#showcase{
+    padding-top:35px;
+
+}
+
+#footer{
+    position:fixed;
+    bottom:0px;
+    width:100%;
+
+}
+
+.otsikkovideo{
+    padding-top:25px;
+    padding-bottom:5px;
+
+}
+.thumb{
+    padding:10px;
+}
+
+.pituus{
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 15px;
+    padding-right: 15px;
+    width: 100%;
+
+}
+.notpituus{
+    height:150px;
+}
+
+.testii{
+    padding: 10px;
+
+}
+.pohja{
+    margin-top: 50px;
+    padding-bottom: 25px;
+
+}
+.väli{
+    padding-left:15px;
+
+}
+.kuva{
+    width:220px;
+    height:146px;
+    object-fit: cover;
+
+}
